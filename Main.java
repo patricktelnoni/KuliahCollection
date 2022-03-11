@@ -2,8 +2,6 @@ import java.util.ArrayList;
 
 public class Main {
   public static void main(String[] args) {
-    // list, dictionary
-    // array (index, asosiatif)
     String nama[] = new String[5]; // [0,1,2,3,4]
     nama[0]       = "Alifia";
     nama[1]       = "Amalia";

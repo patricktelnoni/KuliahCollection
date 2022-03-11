@@ -1,6 +1,6 @@
 public class Mahasiswa{
   private String nama;
-  private int nim;
+  private int nim; 
 
   public String getNama(){
     return this.nama;
